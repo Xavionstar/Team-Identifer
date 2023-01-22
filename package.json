@@ -1,0 +1,23 @@
+{
+  "name": "team-identifier",
+  "version": "1.0.0",
+  "description": "an app to help identify team members",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xavionstar/Team-Identifier.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xavionstar/Team-Identifier/issues"
+  },
+  "homepage": "https://github.com/Xavionstar/Team-Identifier#readme",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  }
+}
